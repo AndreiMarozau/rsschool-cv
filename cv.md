@@ -11,14 +11,17 @@ I'm work as a bank employee.
 My skills: a begginer fron-end programmer.
 
 Example of code:
-``` let ask = (question, yes, no) => {
+
+``` 
+let ask = (question, yes, no) => {
   if (confirm(question)) yes()
   else no(); 
 } 
 
 ask("Вы согласны?",
 () => alert("Вы согласились."),
-() => alert("Вы отменили выполнение.")); ```
+() => alert("Вы отменили выполнение.")); 
+```
 
 My working experience: 5 years on Mtbank as a economist; 4 years on Sber Bank as a bank employee.
 
