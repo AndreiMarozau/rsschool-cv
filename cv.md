@@ -20,3 +20,5 @@ ask("Вы согласны?",
 () => alert("Вы согласились."),
 () => alert("Вы отменили выполнение.")); ```
 
+My working experience: 5 years on Mtbank as a economist; 4 years on Sber Bank as a bank employee.
+
