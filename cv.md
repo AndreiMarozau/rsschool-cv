@@ -22,3 +22,6 @@ ask("Вы согласны?",
 
 My working experience: 5 years on Mtbank as a economist; 4 years on Sber Bank as a bank employee.
 
+My education: Institute of Management and Entrepreneurship (2009 - 2014), self-education.
+
+English: A1
